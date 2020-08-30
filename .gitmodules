@@ -1,0 +1,3 @@
+[submodule "assets/UMA"]
+	path = assets/UMA
+	url = https://github.com/umasteeringgroup/UMA.git
